@@ -18,3 +18,4 @@ Cardiff area and the Valley Lines.
 
 * OpenRailwayMap
 * [Sectional Appendices](https://www.networkrail.co.uk/industry-and-commercial/information-for-operators/national-electronic-sectional-appendix/)
+* Measure distances using map ruler on [Meurisse](https://map.meurisse.org/)
