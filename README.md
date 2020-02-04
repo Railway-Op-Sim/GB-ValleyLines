@@ -1,5 +1,5 @@
-# UK-ValleyLines
-Cardiff area and the Valley Lines.
+# UK-ValleyLines 
+Cardiff area and the Valley Lines by Krizar. If you could please inform me first via Discord if you plan to contribute just so everything comes together. Thanks!
 
 ![Track Diagram](https://raw.githubusercontent.com/Railway-Op-Sim/UK-ValleyLines/master/Images/ValleyLines.bmp)
 
