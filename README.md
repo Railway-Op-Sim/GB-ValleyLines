@@ -1,6 +1,8 @@
 # UK-ValleyLines
 Cardiff area and the Valley Lines.
 
+![Track Diagram](https://raw.githubusercontent.com/Railway-Op-Sim/UK-ValleyLines/master/Images/ValleyLines.bmp)
+
 ## Current Status
 
 | Stage         | Status        |
