@@ -1,5 +1,5 @@
 # UK: ValleyLines (Cardiff Area)
-Cardiff area and the Valley Lines by Krizar. If you could please inform me first via Discord if you plan to contribute just so everything comes together. Thanks!
+Cardiff area and the Valley Lines by Krizar, with modifications and timetable by Albert Ball. If you could please inform me first via Discord if you plan to contribute just so everything comes together. Thanks!
 
 ![Track Diagram](https://raw.githubusercontent.com/Railway-Op-Sim/UK-ValleyLines/master/Images/ValleyLines.bmp)
 
@@ -8,12 +8,12 @@ Cardiff area and the Valley Lines by Krizar. If you could please inform me first
 | Stage         | Status        |
 | ------------- |:-------------:|
 | Track Plan     | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
-| Signalling      | <img src="https://image.flaticon.com/icons/svg/1828/1828833.svg" height="24">      |
+| Signalling      | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24">      |
 | Naming | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24">      |
-| Speed Limits | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
-| Distances | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
-| Timetable | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
-| Documentation | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
+| Speed Limits | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
+| Distances | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
+| Timetable | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
+| Documentation | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
 ## Railway Sources
 
 * OpenRailwayMap
